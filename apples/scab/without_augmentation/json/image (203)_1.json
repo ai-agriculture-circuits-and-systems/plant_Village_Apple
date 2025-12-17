@@ -1,0 +1,68 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 60.0,
+      "source": "plant_village_classification",
+      "original_filename": "FREC_Scab 3226.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 1251642889,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (203).JPG",
+      "size": 10068,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "FREC_Scab 3226.JPG",
+      "pvc_filename": "60f3ba82-caf1-4cf7-998c-b0005458fa38___FREC_Scab 3226.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4813908900,
+      "image_id": 1251642889,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 285,
+      "bbox": [
+        100,
+        199,
+        77,
+        31
+      ]
+    },
+    {
+      "id": 5735240900,
+      "image_id": 1251642889,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 264,
+      "bbox": [
+        178,
+        183,
+        31,
+        47
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000000,
+      "name": "Apple_scab",
+      "supercategory": "Apple"
+    }
+  ]
+}

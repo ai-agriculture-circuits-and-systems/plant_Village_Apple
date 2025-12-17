@@ -1,0 +1,146 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 96.0,
+      "source": "plant_village_classification",
+      "original_filename": "FREC_Scab 3445.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 8040847277,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (377).JPG",
+      "size": 9870,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "FREC_Scab 3445.JPG",
+      "pvc_filename": "10072248-60e2-4190-b4df-14e8ab61008c___FREC_Scab 3445.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7056900285,
+      "image_id": 8040847277,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 837,
+      "bbox": [
+        129,
+        190,
+        57,
+        44
+      ]
+    },
+    {
+      "id": 3964048285,
+      "image_id": 8040847277,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 2413,
+      "bbox": [
+        24,
+        0,
+        55,
+        189
+      ]
+    },
+    {
+      "id": 5880641285,
+      "image_id": 8040847277,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 332,
+      "bbox": [
+        131,
+        167,
+        46,
+        21
+      ]
+    },
+    {
+      "id": 8452843285,
+      "image_id": 8040847277,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 557,
+      "bbox": [
+        188,
+        118,
+        34,
+        26
+      ]
+    },
+    {
+      "id": 8839554285,
+      "image_id": 8040847277,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 193,
+      "bbox": [
+        136,
+        91,
+        31,
+        16
+      ]
+    },
+    {
+      "id": 9992345285,
+      "image_id": 8040847277,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 103,
+      "bbox": [
+        116,
+        92,
+        17,
+        12
+      ]
+    },
+    {
+      "id": 2338347285,
+      "image_id": 8040847277,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 146,
+      "bbox": [
+        161,
+        44,
+        20,
+        14
+      ]
+    },
+    {
+      "id": 1980128285,
+      "image_id": 8040847277,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 245,
+      "bbox": [
+        82,
+        0,
+        45,
+        14
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000000,
+      "name": "Apple_scab",
+      "supercategory": "Apple"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 30.0,
+      "source": "plant_village_classification",
+      "original_filename": "FREC_C.Rust 3805.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 4401544812,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (132).JPG",
+      "size": 9426,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "FREC_C.Rust 3805.JPG",
+      "pvc_filename": "0340baaa-e9cc-4c04-8f9b-c204180d9ae3___FREC_C.Rust 3805.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3179897823,
+      "image_id": 4401544812,
+      "category_id": 2000000002,
+      "segmentation": [],
+      "area": 15771,
+      "bbox": [
+        54,
+        32,
+        168,
+        202
+      ]
+    },
+    {
+      "id": 2002169823,
+      "image_id": 4401544812,
+      "category_id": 2000000002,
+      "segmentation": [],
+      "area": 212,
+      "bbox": [
+        146,
+        176,
+        15,
+        25
+      ]
+    },
+    {
+      "id": 8666701823,
+      "image_id": 4401544812,
+      "category_id": 2000000002,
+      "segmentation": [],
+      "area": 549,
+      "bbox": [
+        162,
+        143,
+        31,
+        26
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000002,
+      "name": "Cedar_apple_rust",
+      "supercategory": "Apple"
+    }
+  ]
+}

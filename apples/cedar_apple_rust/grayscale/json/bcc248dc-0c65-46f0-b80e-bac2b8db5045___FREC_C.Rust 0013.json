@@ -1,0 +1,146 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 1.0,
+      "source": "plant_village_classification",
+      "original_filename": "FREC_C.Rust 0013.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 2961499772,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (204).JPG",
+      "size": 11193,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "FREC_C.Rust 0013.JPG",
+      "pvc_filename": "bcc248dc-0c65-46f0-b80e-bac2b8db5045___FREC_C.Rust 0013.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3991064781,
+      "image_id": 2961499772,
+      "category_id": 2000000002,
+      "segmentation": [],
+      "area": 155,
+      "bbox": [
+        116,
+        230,
+        27,
+        15
+      ]
+    },
+    {
+      "id": 8418608781,
+      "image_id": 2961499772,
+      "category_id": 2000000002,
+      "segmentation": [],
+      "area": 150,
+      "bbox": [
+        106,
+        176,
+        26,
+        13
+      ]
+    },
+    {
+      "id": 2574341781,
+      "image_id": 2961499772,
+      "category_id": 2000000002,
+      "segmentation": [],
+      "area": 139,
+      "bbox": [
+        135,
+        166,
+        25,
+        8
+      ]
+    },
+    {
+      "id": 4932921781,
+      "image_id": 2961499772,
+      "category_id": 2000000002,
+      "segmentation": [],
+      "area": 169,
+      "bbox": [
+        148,
+        154,
+        35,
+        9
+      ]
+    },
+    {
+      "id": 9902305781,
+      "image_id": 2961499772,
+      "category_id": 2000000002,
+      "segmentation": [],
+      "area": 100,
+      "bbox": [
+        137,
+        131,
+        20,
+        7
+      ]
+    },
+    {
+      "id": 7035258781,
+      "image_id": 2961499772,
+      "category_id": 2000000002,
+      "segmentation": [],
+      "area": 351,
+      "bbox": [
+        140,
+        117,
+        48,
+        20
+      ]
+    },
+    {
+      "id": 6240168781,
+      "image_id": 2961499772,
+      "category_id": 2000000002,
+      "segmentation": [],
+      "area": 475,
+      "bbox": [
+        96,
+        86,
+        38,
+        24
+      ]
+    },
+    {
+      "id": 5807927781,
+      "image_id": 2961499772,
+      "category_id": 2000000002,
+      "segmentation": [],
+      "area": 791,
+      "bbox": [
+        118,
+        5,
+        58,
+        60
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000002,
+      "name": "Cedar_apple_rust",
+      "supercategory": "Apple"
+    }
+  ]
+}
