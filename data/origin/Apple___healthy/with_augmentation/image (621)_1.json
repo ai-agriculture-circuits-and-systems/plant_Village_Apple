@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2246379886,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (621).JPG",
+      "size": 20876,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8307925894,
+      "image_id": 2246379886,
+      "category_id": 1000000003,
+      "segmentation": [],
+      "area": 285,
+      "bbox": [
+        20,
+        202,
+        34,
+        34
+      ]
+    },
+    {
+      "id": 5819348894,
+      "image_id": 2246379886,
+      "category_id": 1000000003,
+      "segmentation": [],
+      "area": 198,
+      "bbox": [
+        75,
+        200,
+        20,
+        25
+      ]
+    },
+    {
+      "id": 5030852894,
+      "image_id": 2246379886,
+      "category_id": 1000000003,
+      "segmentation": [],
+      "area": 23614,
+      "bbox": [
+        11,
+        0,
+        237,
+        216
+      ]
+    },
+    {
+      "id": 9642181894,
+      "image_id": 2246379886,
+      "category_id": 1000000003,
+      "segmentation": [],
+      "area": 160,
+      "bbox": [
+        28,
+        178,
+        44,
+        20
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000003,
+      "name": "healthy",
+      "supercategory": "Apple"
+    }
+  ]
+}

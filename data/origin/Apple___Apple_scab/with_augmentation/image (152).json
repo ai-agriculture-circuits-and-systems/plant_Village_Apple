@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6103340031,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (152).JPG",
+      "size": 11484,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6091326040,
+      "image_id": 6103340031,
+      "category_id": 1000000000,
+      "segmentation": [],
+      "area": 1727,
+      "bbox": [
+        56,
+        154,
+        59,
+        79
+      ]
+    },
+    {
+      "id": 4366902040,
+      "image_id": 6103340031,
+      "category_id": 1000000000,
+      "segmentation": [],
+      "area": 144,
+      "bbox": [
+        127,
+        203,
+        17,
+        12
+      ]
+    },
+    {
+      "id": 2096136040,
+      "image_id": 6103340031,
+      "category_id": 1000000000,
+      "segmentation": [],
+      "area": 165,
+      "bbox": [
+        131,
+        160,
+        11,
+        40
+      ]
+    },
+    {
+      "id": 2753204040,
+      "image_id": 6103340031,
+      "category_id": 1000000000,
+      "segmentation": [],
+      "area": 1463,
+      "bbox": [
+        48,
+        59,
+        36,
+        91
+      ]
+    },
+    {
+      "id": 5335582040,
+      "image_id": 6103340031,
+      "category_id": 1000000000,
+      "segmentation": [],
+      "area": 2785,
+      "bbox": [
+        103,
+        0,
+        105,
+        134
+      ]
+    },
+    {
+      "id": 9564957040,
+      "image_id": 6103340031,
+      "category_id": 1000000000,
+      "segmentation": [],
+      "area": 1090,
+      "bbox": [
+        170,
+        0,
+        86,
+        17
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000000,
+      "name": "Apple_scab",
+      "supercategory": "Apple"
+    }
+  ]
+}

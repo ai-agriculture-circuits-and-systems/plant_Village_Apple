@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1211061680,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1287).JPG",
+      "size": 14705,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2963980689,
+      "image_id": 1211061680,
+      "category_id": 1000000003,
+      "segmentation": [],
+      "area": 1684,
+      "bbox": [
+        112,
+        162,
+        118,
+        75
+      ]
+    },
+    {
+      "id": 3592619689,
+      "image_id": 1211061680,
+      "category_id": 1000000003,
+      "segmentation": [],
+      "area": 2409,
+      "bbox": [
+        119,
+        87,
+        102,
+        94
+      ]
+    },
+    {
+      "id": 6803259689,
+      "image_id": 1211061680,
+      "category_id": 1000000003,
+      "segmentation": [],
+      "area": 380,
+      "bbox": [
+        74,
+        114,
+        33,
+        42
+      ]
+    },
+    {
+      "id": 4530218689,
+      "image_id": 1211061680,
+      "category_id": 1000000003,
+      "segmentation": [],
+      "area": 131,
+      "bbox": [
+        102,
+        123,
+        18,
+        29
+      ]
+    },
+    {
+      "id": 2385165689,
+      "image_id": 1211061680,
+      "category_id": 1000000003,
+      "segmentation": [],
+      "area": 225,
+      "bbox": [
+        112,
+        113,
+        32,
+        30
+      ]
+    },
+    {
+      "id": 4449383689,
+      "image_id": 1211061680,
+      "category_id": 1000000003,
+      "segmentation": [],
+      "area": 1160,
+      "bbox": [
+        98,
+        31,
+        54,
+        47
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000003,
+      "name": "healthy",
+      "supercategory": "Apple"
+    }
+  ]
+}

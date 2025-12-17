@@ -1,0 +1,94 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 344.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 5684.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 4532169940,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (613).JPG",
+      "size": 13792,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 5684.JPG",
+      "pvc_filename": "87a26817-6916-47fc-8cdb-adc5c57ad21b___RS_HL 5684.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8718851950,
+      "image_id": 4532169940,
+      "category_id": 2000000003,
+      "segmentation": [],
+      "area": 15387,
+      "bbox": [
+        28,
+        72,
+        208,
+        184
+      ]
+    },
+    {
+      "id": 4835906950,
+      "image_id": 4532169940,
+      "category_id": 2000000003,
+      "segmentation": [],
+      "area": 301,
+      "bbox": [
+        31,
+        186,
+        17,
+        22
+      ]
+    },
+    {
+      "id": 1394013950,
+      "image_id": 4532169940,
+      "category_id": 2000000003,
+      "segmentation": [],
+      "area": 122,
+      "bbox": [
+        132,
+        109,
+        42,
+        11
+      ]
+    },
+    {
+      "id": 8855849950,
+      "image_id": 4532169940,
+      "category_id": 2000000003,
+      "segmentation": [],
+      "area": 224,
+      "bbox": [
+        117,
+        18,
+        33,
+        52
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000003,
+      "name": "healthy",
+      "supercategory": "Apple"
+    }
+  ]
+}

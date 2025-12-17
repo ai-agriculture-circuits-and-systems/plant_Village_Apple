@@ -1,0 +1,120 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 398.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 6243.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 4656864462,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (505).JPG",
+      "size": 11994,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 6243.JPG",
+      "pvc_filename": "47c52b97-c8c7-41da-8bff-608d8db48408___RS_HL 6243.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1265595473,
+      "image_id": 4656864462,
+      "category_id": 2000000003,
+      "segmentation": [],
+      "area": 3109,
+      "bbox": [
+        9,
+        76,
+        113,
+        164
+      ]
+    },
+    {
+      "id": 5224117473,
+      "image_id": 4656864462,
+      "category_id": 2000000003,
+      "segmentation": [],
+      "area": 1717,
+      "bbox": [
+        32,
+        170,
+        72,
+        69
+      ]
+    },
+    {
+      "id": 2240650473,
+      "image_id": 4656864462,
+      "category_id": 2000000003,
+      "segmentation": [],
+      "area": 813,
+      "bbox": [
+        131,
+        169,
+        69,
+        51
+      ]
+    },
+    {
+      "id": 9854391473,
+      "image_id": 4656864462,
+      "category_id": 2000000003,
+      "segmentation": [],
+      "area": 130,
+      "bbox": [
+        191,
+        142,
+        17,
+        32
+      ]
+    },
+    {
+      "id": 7607198473,
+      "image_id": 4656864462,
+      "category_id": 2000000003,
+      "segmentation": [],
+      "area": 417,
+      "bbox": [
+        184,
+        78,
+        29,
+        53
+      ]
+    },
+    {
+      "id": 5672196473,
+      "image_id": 4656864462,
+      "category_id": 2000000003,
+      "segmentation": [],
+      "area": 173,
+      "bbox": [
+        191,
+        31,
+        17,
+        29
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000003,
+      "name": "healthy",
+      "supercategory": "Apple"
+    }
+  ]
+}

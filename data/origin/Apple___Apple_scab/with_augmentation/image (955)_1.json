@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3515315704,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (955).JPG",
+      "size": 11962,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5665880713,
+      "image_id": 3515315704,
+      "category_id": 1000000000,
+      "segmentation": [],
+      "area": 124,
+      "bbox": [
+        74,
+        208,
+        18,
+        20
+      ]
+    },
+    {
+      "id": 4782906713,
+      "image_id": 3515315704,
+      "category_id": 1000000000,
+      "segmentation": [],
+      "area": 1172,
+      "bbox": [
+        100,
+        158,
+        69,
+        46
+      ]
+    },
+    {
+      "id": 7780993713,
+      "image_id": 3515315704,
+      "category_id": 1000000000,
+      "segmentation": [],
+      "area": 315,
+      "bbox": [
+        71,
+        171,
+        27,
+        27
+      ]
+    },
+    {
+      "id": 5228686713,
+      "image_id": 3515315704,
+      "category_id": 1000000000,
+      "segmentation": [],
+      "area": 912,
+      "bbox": [
+        46,
+        123,
+        71,
+        38
+      ]
+    },
+    {
+      "id": 2836939713,
+      "image_id": 3515315704,
+      "category_id": 1000000000,
+      "segmentation": [],
+      "area": 2225,
+      "bbox": [
+        137,
+        30,
+        65,
+        105
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000000,
+      "name": "Apple_scab",
+      "supercategory": "Apple"
+    }
+  ]
+}

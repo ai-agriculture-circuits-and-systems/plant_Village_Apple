@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7266757844,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (157).JPG",
+      "size": 16604,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1792247855,
+      "image_id": 7266757844,
+      "category_id": 1000000003,
+      "segmentation": [],
+      "area": 1392,
+      "bbox": [
+        74,
+        187,
+        120,
+        57
+      ]
+    },
+    {
+      "id": 1539018855,
+      "image_id": 7266757844,
+      "category_id": 1000000003,
+      "segmentation": [],
+      "area": 166,
+      "bbox": [
+        35,
+        113,
+        21,
+        17
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000003,
+      "name": "healthy",
+      "supercategory": "Apple"
+    }
+  ]
+}

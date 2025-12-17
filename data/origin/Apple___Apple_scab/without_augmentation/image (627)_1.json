@@ -1,0 +1,107 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 20.0,
+      "source": "plant_village_classification",
+      "original_filename": "FREC_Scab 3013.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 2200861875,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (627).JPG",
+      "size": 17375,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "FREC_Scab 3013.JPG",
+      "pvc_filename": "fd5a96b7-6623-41cc-b34c-3b940ea27286___FREC_Scab 3013.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8550392887,
+      "image_id": 2200861875,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 10310,
+      "bbox": [
+        139,
+        0,
+        117,
+        234
+      ]
+    },
+    {
+      "id": 1088970887,
+      "image_id": 2200861875,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 132,
+      "bbox": [
+        100,
+        182,
+        25,
+        17
+      ]
+    },
+    {
+      "id": 4312489887,
+      "image_id": 2200861875,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 235,
+      "bbox": [
+        84,
+        160,
+        31,
+        15
+      ]
+    },
+    {
+      "id": 2352577887,
+      "image_id": 2200861875,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 131,
+      "bbox": [
+        131,
+        65,
+        13,
+        24
+      ]
+    },
+    {
+      "id": 8228915887,
+      "image_id": 2200861875,
+      "category_id": 2000000000,
+      "segmentation": [],
+      "area": 199,
+      "bbox": [
+        39,
+        54,
+        26,
+        23
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000000,
+      "name": "Apple_scab",
+      "supercategory": "Apple"
+    }
+  ]
+}
