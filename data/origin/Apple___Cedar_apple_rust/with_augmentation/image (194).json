@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8422029211,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (194).JPG",
+      "size": 9791,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7063502220,
+      "image_id": 8422029211,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 164,
+      "bbox": [
+        154,
+        91,
+        25,
+        11
+      ]
+    },
+    {
+      "id": 6594973220,
+      "image_id": 8422029211,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 135,
+      "bbox": [
+        99,
+        90,
+        20,
+        9
+      ]
+    },
+    {
+      "id": 1376530220,
+      "image_id": 8422029211,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 178,
+      "bbox": [
+        120,
+        70,
+        24,
+        9
+      ]
+    },
+    {
+      "id": 3059832220,
+      "image_id": 8422029211,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 108,
+      "bbox": [
+        160,
+        71,
+        16,
+        9
+      ]
+    },
+    {
+      "id": 6975237220,
+      "image_id": 8422029211,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 114,
+      "bbox": [
+        148,
+        50,
+        23,
+        17
+      ]
+    },
+    {
+      "id": 3257859220,
+      "image_id": 8422029211,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 138,
+      "bbox": [
+        120,
+        40,
+        17,
+        22
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000002,
+      "name": "Cedar_apple_rust",
+      "supercategory": "Apple"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2301186160,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (391).JPG",
+      "size": 21367,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8255914171,
+      "image_id": 2301186160,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 1243,
+      "bbox": [
+        132,
+        144,
+        82,
+        97
+      ]
+    },
+    {
+      "id": 1476962171,
+      "image_id": 2301186160,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 539,
+      "bbox": [
+        64,
+        187,
+        45,
+        43
+      ]
+    },
+    {
+      "id": 6543266171,
+      "image_id": 2301186160,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 978,
+      "bbox": [
+        19,
+        110,
+        36,
+        42
+      ]
+    },
+    {
+      "id": 8320160171,
+      "image_id": 2301186160,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 2706,
+      "bbox": [
+        127,
+        0,
+        117,
+        146
+      ]
+    },
+    {
+      "id": 2812705171,
+      "image_id": 2301186160,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 764,
+      "bbox": [
+        103,
+        0,
+        22,
+        120
+      ]
+    },
+    {
+      "id": 9550314171,
+      "image_id": 2301186160,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 110,
+      "bbox": [
+        32,
+        67,
+        14,
+        15
+      ]
+    },
+    {
+      "id": 6807212171,
+      "image_id": 2301186160,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 119,
+      "bbox": [
+        156,
+        60,
+        17,
+        11
+      ]
+    },
+    {
+      "id": 2471737171,
+      "image_id": 2301186160,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 338,
+      "bbox": [
+        67,
+        33,
+        23,
+        28
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000001,
+      "name": "Black_rot",
+      "supercategory": "Apple"
+    }
+  ]
+}

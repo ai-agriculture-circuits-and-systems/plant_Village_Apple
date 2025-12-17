@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4758024750,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (230).JPG",
+      "size": 9952,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7881966761,
+      "image_id": 4758024750,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 1165,
+      "bbox": [
+        25,
+        119,
+        94,
+        86
+      ]
+    },
+    {
+      "id": 2017348761,
+      "image_id": 4758024750,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 444,
+      "bbox": [
+        127,
+        172,
+        55,
+        31
+      ]
+    },
+    {
+      "id": 8080299761,
+      "image_id": 4758024750,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 263,
+      "bbox": [
+        62,
+        93,
+        19,
+        19
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000002,
+      "name": "Cedar_apple_rust",
+      "supercategory": "Apple"
+    }
+  ]
+}

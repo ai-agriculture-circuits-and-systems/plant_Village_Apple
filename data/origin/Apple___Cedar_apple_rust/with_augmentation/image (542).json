@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5132225100,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (542).JPG",
+      "size": 10324,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8305874109,
+      "image_id": 5132225100,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 1556,
+      "bbox": [
+        155,
+        116,
+        93,
+        100
+      ]
+    },
+    {
+      "id": 3600547109,
+      "image_id": 5132225100,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 136,
+      "bbox": [
+        149,
+        176,
+        11,
+        18
+      ]
+    },
+    {
+      "id": 7599717109,
+      "image_id": 5132225100,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 138,
+      "bbox": [
+        132,
+        144,
+        11,
+        21
+      ]
+    },
+    {
+      "id": 4600577109,
+      "image_id": 5132225100,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 229,
+      "bbox": [
+        164,
+        118,
+        26,
+        19
+      ]
+    },
+    {
+      "id": 2068589109,
+      "image_id": 5132225100,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 134,
+      "bbox": [
+        193,
+        97,
+        20,
+        19
+      ]
+    },
+    {
+      "id": 3803728109,
+      "image_id": 5132225100,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 498,
+      "bbox": [
+        172,
+        77,
+        26,
+        34
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000002,
+      "name": "Cedar_apple_rust",
+      "supercategory": "Apple"
+    }
+  ]
+}

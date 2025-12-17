@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6047003286,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (56).JPG",
+      "size": 18554,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3070615295,
+      "image_id": 6047003286,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 8983,
+      "bbox": [
+        28,
+        3,
+        178,
+        250
+      ]
+    },
+    {
+      "id": 5939840295,
+      "image_id": 6047003286,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 131,
+      "bbox": [
+        18,
+        150,
+        21,
+        39
+      ]
+    },
+    {
+      "id": 2826485295,
+      "image_id": 6047003286,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 415,
+      "bbox": [
+        204,
+        128,
+        39,
+        44
+      ]
+    },
+    {
+      "id": 4728332295,
+      "image_id": 6047003286,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 109,
+      "bbox": [
+        150,
+        149,
+        19,
+        9
+      ]
+    },
+    {
+      "id": 8873379295,
+      "image_id": 6047003286,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 107,
+      "bbox": [
+        150,
+        123,
+        16,
+        10
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000001,
+      "name": "Black_rot",
+      "supercategory": "Apple"
+    }
+  ]
+}

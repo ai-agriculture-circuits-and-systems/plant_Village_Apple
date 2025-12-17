@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5330035273,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (845).JPG",
+      "size": 10740,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8273232275,
+      "image_id": 5330035273,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 7414,
+      "bbox": [
+        0,
+        30,
+        112,
+        226
+      ]
+    },
+    {
+      "id": 7709184275,
+      "image_id": 5330035273,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 218,
+      "bbox": [
+        79,
+        160,
+        17,
+        21
+      ]
+    },
+    {
+      "id": 5847563275,
+      "image_id": 5330035273,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 176,
+      "bbox": [
+        143,
+        137,
+        14,
+        23
+      ]
+    },
+    {
+      "id": 4621123275,
+      "image_id": 5330035273,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 290,
+      "bbox": [
+        212,
+        123,
+        26,
+        26
+      ]
+    },
+    {
+      "id": 5888114275,
+      "image_id": 5330035273,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 720,
+      "bbox": [
+        127,
+        113,
+        93,
+        27
+      ]
+    },
+    {
+      "id": 2867162275,
+      "image_id": 5330035273,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 163,
+      "bbox": [
+        98,
+        102,
+        13,
+        17
+      ]
+    },
+    {
+      "id": 2102847275,
+      "image_id": 5330035273,
+      "category_id": 1000000002,
+      "segmentation": [],
+      "area": 308,
+      "bbox": [
+        107,
+        79,
+        21,
+        27
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000002,
+      "name": "Cedar_apple_rust",
+      "supercategory": "Apple"
+    }
+  ]
+}

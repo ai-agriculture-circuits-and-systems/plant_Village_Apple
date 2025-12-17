@@ -1,0 +1,68 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 35.0,
+      "source": "plant_village_classification",
+      "original_filename": "JR_FrgE.S 8591.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 9495271787,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (195).JPG",
+      "size": 21249,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "JR_FrgE.S 8591.JPG",
+      "pvc_filename": "37dc5845-507c-46f7-bfd9-f41407e6c813___JR_FrgE.S 8591.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3887640796,
+      "image_id": 9495271787,
+      "category_id": 2000000001,
+      "segmentation": [],
+      "area": 4721,
+      "bbox": [
+        12,
+        5,
+        116,
+        238
+      ]
+    },
+    {
+      "id": 9397906796,
+      "image_id": 9495271787,
+      "category_id": 2000000001,
+      "segmentation": [],
+      "area": 317,
+      "bbox": [
+        165,
+        215,
+        49,
+        24
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000001,
+      "name": "Black_rot",
+      "supercategory": "Apple"
+    }
+  ]
+}

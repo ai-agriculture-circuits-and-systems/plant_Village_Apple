@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7196657874,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (680).JPG",
+      "size": 19105,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4451005882,
+      "image_id": 7196657874,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 7969,
+      "bbox": [
+        0,
+        137,
+        158,
+        116
+      ]
+    },
+    {
+      "id": 1204812882,
+      "image_id": 7196657874,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 126,
+      "bbox": [
+        160,
+        193,
+        47,
+        33
+      ]
+    },
+    {
+      "id": 6814531882,
+      "image_id": 7196657874,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 485,
+      "bbox": [
+        99,
+        132,
+        37,
+        28
+      ]
+    },
+    {
+      "id": 4006930882,
+      "image_id": 7196657874,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 249,
+      "bbox": [
+        55,
+        71,
+        38,
+        30
+      ]
+    },
+    {
+      "id": 6501466882,
+      "image_id": 7196657874,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 106,
+      "bbox": [
+        137,
+        80,
+        17,
+        9
+      ]
+    },
+    {
+      "id": 5069824882,
+      "image_id": 7196657874,
+      "category_id": 1000000001,
+      "segmentation": [],
+      "area": 641,
+      "bbox": [
+        178,
+        4,
+        70,
+        75
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000001,
+      "name": "Black_rot",
+      "supercategory": "Apple"
+    }
+  ]
+}
